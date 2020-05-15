@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="Test Site" url="localhost:5000/">
+   </description>
+   <feature url="features/test.feature_1.0.0.202005151007.jar" id="test.feature" version="1.0.0.202005151007"/>
+</site>
